@@ -1,3 +1,5 @@
+package wk1;
+
 class ValidAnagram {
     public boolean isAnagram(String s, String t) {
 

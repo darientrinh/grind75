@@ -1,3 +1,4 @@
+package wk1;
 
 // Definition for a binary tree node.
 public class TreeNode {

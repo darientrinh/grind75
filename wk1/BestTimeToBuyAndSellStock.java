@@ -1,3 +1,5 @@
+package wk1;
+
 class BestTimeToBuyAndSellStock {
     public int maxProfit(int[] prices) {
         int minimum = prices[0];

@@ -1,3 +1,5 @@
+package wk1;
+
 class ValidPalindrome {
     public boolean isPalindrome(String s) {
         String newS = s.replaceAll("[^a-zA-Z0-9]", "");
