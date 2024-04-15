@@ -1,2 +1,2 @@
 # grind75
-extra practice
+repo contains my solutions to the 16 week grind 75 program
